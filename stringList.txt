@@ -11,3 +11,6 @@ level
 foot
 book
 orrange
+apple
+reve
+technonext
